@@ -1,4 +1,4 @@
-# :rocket: :trophy: Widup Technology
+# :trophy: Widup Technology
 
 <div align='Center'>
   
