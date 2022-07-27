@@ -1,10 +1,10 @@
-# :rocket: Widup Technology
-
-_Olá, seja bem vindo ao nosso perfil!_
+# :rocket: :trophy: Widup Technology
 
 <div align='Center'>
   
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suportewidup&theme=vue)
+  _Olá, seja bem vindo ao nosso perfil!_ :sparkles:
+  
+  ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suportewidup&theme=vue)
   
 </div>
 
@@ -19,7 +19,7 @@ Somos a Widup Technology, uma empresa de soluções tecnológicas especialista e
   
 </div>
   
-## :pushpin: Tecnologias Utilizadas
+## :fire: Tecnologias :fire:
 
 _Utilizamos as melhores tecnologias do mercado no desenvolvimento de nossas soluções._
 
@@ -40,6 +40,12 @@ _Utilizamos as melhores tecnologias do mercado no desenvolvimento de nossas solu
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![PrismaORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   
-  
 </div>
 
+## :calling: Contato 
+
+_Entre em contato com a gente:_
+
+:envelope: Email: `contato@widup.com.br`
+
+:telephone_receiver: Telefone: `84 9 9117-3575`
